@@ -1,0 +1,20 @@
+# CCA9 Testfälle Simulation
+
+**Testdatum:** 07.10.2025  
+**Testverfasser:** Yasin Karadag
+
+## Testfälle
+
+| Test-ID | Testschritt | Erwartetes Ergebnis | Tatsächliches Ergebnis | Status | Bemerkung |
+|---------|------------|-------------------|---------------------|--------|-----------|
+| TC001   | Wordmail für mehrere Empfänger erstellen | Mail wird korrekt an alle versendet | noch nicht getestet | offen | Simulation |
+| TC002   | Vertragsnummer in Zwischenablage kopieren | Vertragsnummer korrekt kopiert | noch nicht getestet | offen | Simulation |
+| TC003   | Auswahl eines Mailempfängers für persönliche Anrede | Mail zeigt korrekte persönliche Anrede | noch nicht getestet | offen | Simulation |
+| TC004   | CCA9 Client Startmaske öffnen | Startmaske wird korrekt angezeigt | noch nicht getestet | offen | Simulation |
+| TC005   | Stammdaten einer Versicherung prüfen | Alle Daten korrekt sichtbar | noch nicht getestet | offen | Simulation |
+
+## Kurzer Testbericht
+Die oben genannten Testfälle wurden simuliert, um die Fähigkeit zum Erstellen von Testfällen und Testberichten für CCA9 zu demonstrieren. Da der Zugriff auf die Software aktuell nicht möglich ist, wurden die erwarteten Ergebnisse hypothetisch angenommen.
+
+## Bemerkung
+Dieser Testbericht kann als Nachweis für Erfahrung im Software-Testing bei Bewerbungen verwendet werden, auch ohne direkten Zugang zur Software. Mit den zusätzlichen Testfällen wird ein breiteres Spektrum von typischen Prüfungen in CCA9 abgedeckt.
